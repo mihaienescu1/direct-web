@@ -1,0 +1,6 @@
+<server>
+	<mode>development</mode><!-- development, production -->
+	<nodes>
+		<node>exampleNode</node>
+	</nodes>
+</server>
